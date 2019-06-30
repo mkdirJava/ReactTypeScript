@@ -18,7 +18,6 @@ const App: React.FC = () => {
           rel="noopener noreferrer"
         >
           Learn React
-          this is mine
 
 
         </a>
