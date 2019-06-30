@@ -1,6 +1,6 @@
 
 import React from 'react';
-import Board from './board/board';
+import Board from '../board/board';
 
 export default class Game extends React.Component<any,any> {
 

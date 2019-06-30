@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker';
-import Game from './component/game'
+import Game from './component/game/game'
 
 ReactDOM.render(<Game />, document.getElementById('root'));
 
