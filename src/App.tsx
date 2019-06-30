@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+
 const App: React.FC = () => {
   return (
     <div className="App">
@@ -17,6 +18,9 @@ const App: React.FC = () => {
           rel="noopener noreferrer"
         >
           Learn React
+          this is mine
+
+
         </a>
       </header>
     </div>

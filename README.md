@@ -1,3 +1,6 @@
+This project was made with typescript and react, its aim is to use typescript to do a tic tac toe game. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
